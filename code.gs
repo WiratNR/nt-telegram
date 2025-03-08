@@ -1,6 +1,6 @@
 function sendTelegramNotification() {
-  var TELEGRAM_BOT_TOKEN = "xxxx"; // ใส่ Token ของบอท
-  var CHAT_ID = "xxxx"; // ใส่ Chat ID ของผู้รับ
+  var TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN"; // ใส่ Token ของบอท
+  var CHAT_ID = "YOUR_CHAT_ID"; // ใส่ Chat ID ของผู้รับ
 
   var message = "📢 แจ้งเตือนจาก Google Apps Script!\n✅ ระบบทำงานเรียบร้อยแล้ว";
 
